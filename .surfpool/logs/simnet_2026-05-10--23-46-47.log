@@ -1,0 +1,20 @@
+[2026-05-10--23-46-47 INFO actix_server::builder] starting 5 workers
+[2026-05-10--23-46-47 INFO actix_server::server] Tokio runtime found; starting in existing Tokio runtime
+[2026-05-10--23-46-47 INFO actix_server::server] starting service: "actix-web-service-127.0.0.1:18488", workers: 5, listening on: 127.0.0.1:18488
+[2026-05-10--23-46-53 INFO parity_ws] Listening for new connections on 127.0.0.1:8900.
+[2026-05-10--23-47-09 INFO txtx::svm::deploy_program] [Recovery Instructions] - An ephemeral authority account will be created and funded to write to the buffer account.
+[2026-05-10--23-47-09 INFO txtx::svm::deploy_program] [Recovery Instructions] - Please save the following information in case the deployment fails and the account needs to be recovered:
+[2026-05-10--23-47-09 INFO txtx::svm::deploy_program] [Recovery Instructions] - Ephemeral authority public key: CAepYsjbY89VDsvEzVj4Z7ey6VwRY8FnoJuLkXF2RsP1
+[2026-05-10--23-47-09 INFO txtx::svm::deploy_program] [Recovery Instructions] - Ephemeral authority secret key: [228, 175, 176, 26, 51, 171, 45, 0, 133, 40, 206, 74, 129, 7, 103, 8, 233, 33, 174, 112, 180, 210, 56, 8, 208, 54, 40, 89, 151, 93, 16, 167, 165, 233, 139, 230, 2, 214, 93, 15, 225, 84, 223, 239, 13, 213, 116, 230, 219, 131, 233, 85, 19, 59, 183, 109, 174, 62, 44, 53, 134, 28, 99, 148]
+[2026-05-10--23-47-15 INFO txtx::svm::deploy_program] Account Created - Ephemeral authority account created and funded to write to buffer
+[2026-05-10--23-47-15 INFO txtx::svm::deploy_program] [Recovery Instructions] - Creating program buffer account at pubkey GdgncEDb1d4K9jc5f2CHUcWn4LCt6H4TggkMQz5zNZ6o
+[2026-05-10--23-47-15 INFO txtx::svm::deploy_program] Account Created - Program buffer account created
+[2026-05-10--23-47-19 INFO txtx::svm::deploy_program] Buffer Ready - Writing to buffer account is complete
+[2026-05-10--23-47-25 ERROR txtx::svm::send_transaction] Failed - Failed to broadcast transaction
+[2026-05-10--23-47-25 ERROR txtx::svm::send_transaction] Failed - error: unable to send and confirm transaction (RPC response error -32002: Transaction verification failed for transaction Internal error: "Failed to fetch accounts from remote: error sending request for url (https://api.mainnet-beta.solana.com/)"; )
+[2026-05-10--23-48-01 INFO actix_server::worker] shutting down idle worker
+[2026-05-10--23-48-01 INFO actix_server::worker] shutting down idle worker
+[2026-05-10--23-48-01 INFO actix_server::worker] shutting down idle worker
+[2026-05-10--23-48-01 INFO actix_server::worker] shutting down idle worker
+[2026-05-10--23-48-01 INFO actix_server::accept] accept thread stopped
+[2026-05-10--23-48-01 INFO actix_server::worker] shutting down idle worker

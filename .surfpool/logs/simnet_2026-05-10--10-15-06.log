@@ -1,0 +1,40 @@
+[2026-05-10--10-15-06 INFO actix_server::builder] starting 5 workers
+[2026-05-10--10-15-06 INFO actix_server::server] Tokio runtime found; starting in existing Tokio runtime
+[2026-05-10--10-15-06 INFO actix_server::server] starting service: "actix-web-service-127.0.0.1:18488", workers: 5, listening on: 127.0.0.1:18488
+[2026-05-10--10-15-13 INFO parity_ws] Listening for new connections on 127.0.0.1:8900.
+[2026-05-10--10-15-31 INFO txtx::svm::deploy_program] [Recovery Instructions] - An ephemeral authority account will be created and funded to write to the buffer account.
+[2026-05-10--10-15-31 INFO txtx::svm::deploy_program] [Recovery Instructions] - Please save the following information in case the deployment fails and the account needs to be recovered:
+[2026-05-10--10-15-31 INFO txtx::svm::deploy_program] [Recovery Instructions] - Ephemeral authority public key: Efwab9FWb8UHEKEj9VRtz3MnUgwqDnp8Thx7PWLfMrwf
+[2026-05-10--10-15-31 INFO txtx::svm::deploy_program] [Recovery Instructions] - Ephemeral authority secret key: [230, 168, 215, 95, 16, 247, 153, 54, 191, 184, 93, 62, 135, 46, 118, 252, 224, 18, 185, 216, 18, 25, 76, 201, 242, 241, 159, 200, 73, 109, 24, 11, 203, 33, 182, 173, 201, 208, 209, 8, 94, 35, 235, 24, 8, 170, 61, 111, 94, 59, 146, 221, 140, 110, 99, 122, 99, 146, 75, 244, 167, 192, 126, 230]
+[2026-05-10--10-15-37 INFO txtx::svm::deploy_program] Account Created - Ephemeral authority account created and funded to write to buffer
+[2026-05-10--10-15-37 INFO txtx::svm::deploy_program] [Recovery Instructions] - Creating program buffer account at pubkey 49cECcGsAdrEf4u2E7F5PFu1bFnxHMX9CbFhthHfTiP8
+[2026-05-10--10-15-37 INFO txtx::svm::deploy_program] Account Created - Program buffer account created
+[2026-05-10--10-15-42 INFO txtx::svm::deploy_program] Buffer Ready - Writing to buffer account is complete
+[2026-05-10--10-15-54 INFO txtx::svm::deploy_program] Program Created - Program AuDuLCsc85LFBAr6Wm8wNfrHfHoMeXsTgvsgXv3FRbwa has been deployed
+[2026-05-10--10-15-55 INFO txtx::svm::deploy_program] Complete - Ephemeral authority account closed and leftover funds returned to payer
+[2026-05-10--10-16-00 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:33036.
+[2026-05-10--10-16-02 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:33042.
+[2026-05-10--10-16-20 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:45778.
+[2026-05-10--10-17-59 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:52896.
+[2026-05-10--10-18-07 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:51200.
+[2026-05-10--10-18-14 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:51208.
+[2026-05-10--10-23-41 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:58772.
+[2026-05-10--10-23-54 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:47266.
+[2026-05-10--10-24-26 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:38094.
+[2026-05-10--10-24-33 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:47418.
+[2026-05-10--10-25-52 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:45384.
+[2026-05-10--10-26-00 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:57066.
+[2026-05-10--10-26-06 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:59468.
+[2026-05-10--10-29-54 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:38750.
+[2026-05-10--10-30-01 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:54288.
+[2026-05-10--10-40-57 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:42502.
+[2026-05-10--10-41-05 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:44890.
+[2026-05-10--10-41-32 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:60640.
+[2026-05-10--10-41-40 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:45160.
+[2026-05-10--10-41-47 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:45174.
+[2026-05-10--10-49-35 INFO actix_server::accept] accept thread stopped
+[2026-05-10--10-49-35 INFO actix_server::worker] shutting down idle worker
+[2026-05-10--10-49-35 INFO actix_server::worker] shutting down idle worker
+[2026-05-10--10-49-35 INFO actix_server::worker] shutting down idle worker
+[2026-05-10--10-49-35 INFO actix_server::worker] shutting down idle worker
+[2026-05-10--10-49-35 INFO actix_server::worker] shutting down idle worker
